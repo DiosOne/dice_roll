@@ -1,3 +1,3 @@
-# repo for my first little python code
+# Dice Roll
 
-## I want a simple algorythm for simulated ttrpg dice
+## Simple Python script to simulate standard ttrpg dice rolls for use in other projects.
